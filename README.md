@@ -53,7 +53,7 @@ returnLastTwoDrivers(['Antonia', 'Nuru', 'Amari', 'Mo'])
   quadruples the fare.
 - `fareDoubler()` — Declare a variable with `const` and assign a function
   returned by `createFareMultiplier()` to it. Invoke `createFareMultiplier()` in
-  such a way that the new `fareDoubler()` function accepts a fare as its lone
+  such a way that the new `fareDoubler()` function accepts a fare as its lon
   argument and doubles it.
 - `fareTripler()` — Declare a variable with `const` and assign a function
   returned by `createFareMultiplier()` to it. Invoke `createFareMultiplier()` in
